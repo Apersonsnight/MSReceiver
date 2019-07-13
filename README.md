@@ -5,4 +5,5 @@
 客户端收到密钥后实现激活过程
 
 ![image](https://github.com/laomms/MSReceiver/blob/master/msc.png)
-![image](https://github.com/laomms/MSReceiver/blob/master/app.png)
+
+![image](https://github.com/laomms/MSReceiver/blob/master/app.jpg)
